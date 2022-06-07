@@ -32,6 +32,10 @@ github_username:  mcljnd
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+# Other settings
+paginate: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
