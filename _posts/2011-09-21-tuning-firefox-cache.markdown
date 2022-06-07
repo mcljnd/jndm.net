@@ -3,6 +3,7 @@ layout: post
 title:  "Tuning Firefox: cache"
 date:   2011-09-21 21:12:03 +0200
 categories: 
+permalink: /2011-09-21-tuning-firefox-cache/
 ---
 
 If you have plenty of RAM and do no want Firefox to save temporary files to disk (for example because you have SSD and want to limit number of disk writes) you can move Firefox cache to RAM.

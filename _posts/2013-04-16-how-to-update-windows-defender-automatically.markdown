@@ -3,6 +3,7 @@ layout: post
 title:  "How to update Windows defender automatically"
 date:   2013-04-16 21:12:03 +0200
 categories: 
+permalink: /2013-04-16-how-to-update-windows-defender-automatically/
 ---
 
 Windows 8 brings not only Metro interface and strange Start menu but also Windows Defender instead of Microsoft Security Essentials. Windows Defender is missing some features MSSE has. One of those changes is that updates for virus and spyware definitions are installed by Windows Update.

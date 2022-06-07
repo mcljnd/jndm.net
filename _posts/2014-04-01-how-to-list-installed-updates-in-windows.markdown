@@ -2,7 +2,8 @@
 layout: post
 title:  "How to list installed updates in Windows"
 date:   2014-04-01 21:12:03 +0200
-categories: 
+categories:
+permalink: /2014-04-01-how-to-list-installed-updates-in-windows/ 
 ---
 
 

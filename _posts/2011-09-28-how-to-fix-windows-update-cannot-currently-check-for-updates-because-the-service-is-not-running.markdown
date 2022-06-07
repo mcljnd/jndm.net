@@ -3,6 +3,7 @@ layout: post
 title:  "How to fix “Windows Update cannot currently check for updates, because the service is not running”"
 date:   2011-09-28 21:12:03 +0200
 categories: 
+permalink: /2011-09-28-how-to-fix-windows-update-cannot-currently-check-for-updates-because-the-service-is-not-running/
 ---
 Sometimes you can get in situation that Windows Update is not working and you are receiving error
 

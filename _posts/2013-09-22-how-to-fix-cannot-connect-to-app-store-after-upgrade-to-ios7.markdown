@@ -3,6 +3,7 @@ layout: post
 title:  "How to fix “Cannot Connect to App Store” after upgrade to iOS7"
 date:   2013-09-22 21:12:03 +0200
 categories: 
+permalink: /2013-09-22-how-to-fix-cannot-connect-to-app-store-after-upgrade-to-ios7/
 ---
 
 
