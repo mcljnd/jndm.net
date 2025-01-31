@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "CrashPlan 3.0.3 cannot start as regular user – Linux"
+date:   2011-11-08 20:23:03 +0200
+categories: 
+permalink: /2011-11-08-CrashPlan-3.0.3-cannot-start-as-regular-user-Linux/
+---
+
+If you install CrashPlan with root permissions, you might have trouble to start  */usr/local/bin/CrashPlanDesktop* as regular user with non root permissions.
+
+It is because log files are owned by root. This can be fixed by simple *chmod 666 /usr/local/crashplan/log/\*.log*.
